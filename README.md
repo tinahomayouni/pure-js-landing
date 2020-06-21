@@ -1,1 +1,1 @@
-# pure-js-landing
+# landing
